@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MissionMaker's forum](https://github.com/Toriality/mission-maker-website)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **Slashury#0121, demsa.levente@outlook.com**
 
