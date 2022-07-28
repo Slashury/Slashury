@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MissionMaker's forum](https://github.com/Toriality/mission-maker-website)
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **Slashury#0121, demsa.levente@outlook.com**
+- 📫 How to reach me **Slass#0121, demsa.levente@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
