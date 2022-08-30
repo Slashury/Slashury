@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mestraun</h1>
+<h1 align="center">Hi 👋, I'm Slashury</h1>
 <h3 align="center">A passionate full stack developer from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slashury&label=Profile%20views&color=0e75b6&style=flat" alt="slashury" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **C++**
 
-- 📫 How to reach me: **Mestraun#0121, demsa.levente@outlook.com**
+- 📫 How to reach me: **Slashury#0121, demsa.levente@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
